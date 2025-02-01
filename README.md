@@ -48,7 +48,7 @@ faq_project/                # Root Directory
 
 ## 🛠 Installation
 ```bash
-git clone <your-github-repo-url>
+git clone https://github.com/sarvjit07/BharatFD.git
 cd faq_project
 python3 -m venv venv
 source venv/bin/activate
